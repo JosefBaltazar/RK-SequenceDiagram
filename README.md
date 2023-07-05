@@ -1,3 +1,3 @@
 # RK-SequenceDiagram
-Please checkout delivery documents from Wiki repository.
+Please checkout delivery documents from the Wiki section of repository.
 Best Regards.
